@@ -1,6 +1,6 @@
 # LukMinerPhi
 An open source cryptonight miner for Intel Xeon Phi Coprocessor based on the previous work of others.
-Designed to work with 5110p and 7210p models only, based on the Knights Corner chipset. Maybe also work with Knights Landing as well.
+Designed to work with Xeon Phi 5110p and 7210p models only, based on the Knights Corner chipset. Maybe also work with the Knights Landing chipset as well.
 
 Intel Xeon Phi 5110p Coprocessor tech specs: 
 https://www.intel.com/content/www/us/en/products/sku/71992/intel-xeon-phi-coprocessor-5110p-8gb-1-053-ghz-60-core/specifications.html
